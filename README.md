@@ -1,4 +1,4 @@
-# np
+# Matplotlib and Numpy
 > Just Learning Basics of numpy and matplotlib
 
 ## A novice coder....
